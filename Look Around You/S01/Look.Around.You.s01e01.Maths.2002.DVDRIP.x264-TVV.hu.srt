@@ -1,0 +1,569 @@
+﻿1
+00:00:30,440 --> 00:00:32,796
+Nézzen körül!
+
+2
+00:00:34,200 --> 00:00:36,192
+Nézzen körül.
+
+3
+00:00:36,360 --> 00:00:38,716
+
+
+4
+00:00:40,160 --> 00:00:42,470
+Csak... nézzen körül.
+
+5
+00:00:44,680 --> 00:00:47,434
+Kitalálta már,
+hogy mit keresünk?
+
+6
+00:00:48,720 --> 00:00:50,791
+Pontosan. A válasz...
+
+7
+00:00:51,715 --> 00:00:54,115
+a matematika.
+
+8
+00:00:56,880 --> 00:00:59,270
+A "Matematika" c. epizód
+
+9
+00:00:59,480 --> 00:01:03,554
+a sorozathoz tartozó tankönyv
+3,1415926-ik fejezetének
+
+10
+00:01:03,720 --> 00:01:05,916
+kiegészítő része.
+
+11
+00:01:09,000 --> 00:01:11,754
+Kérjük készítse elő
+jegyzetfüzetét,
+
+12
+00:01:11,920 --> 00:01:14,719
+mivel a film számos pontján
+fel kell majd jegyeznie
+
+13
+00:01:14,880 --> 00:01:16,678
+a képernyőn látottakat.
+
+14
+00:01:18,240 --> 00:01:21,631
+Melyik a legnagyobb szám,
+ami eszébe jut?
+
+15
+00:01:22,880 --> 00:01:25,076
+Hmm... 100.000?
+
+16
+00:01:25,640 --> 00:01:28,553
+999.000.
+
+17
+00:01:28,720 --> 00:01:30,632
+Egymillió.
+
+18
+00:01:30,800 --> 00:01:33,076
+Valójában ezek
+egyike sem helyes.
+
+19
+00:01:33,240 --> 00:01:35,914
+A legnagyobb ismert szám
+körülbelül 45 milliárd,
+
+20
+00:01:36,080 --> 00:01:40,393
+bár matematikusok szerint
+akár ennél nagyobbak is lehetnek.
+
+21
+00:01:43,720 --> 00:01:48,397
+Könnyű dolog elveszni a
+sok különböző szám tengerében,
+
+22
+00:01:48,720 --> 00:01:51,189
+ha csak nem használjuk a matematikát.
+
+23
+00:01:52,600 --> 00:01:59,313
+A "matematika" teljes neve Matematikai
+Anti-Telharszikus Harfétum Szeptomin.
+
+24
+00:01:59,480 --> 00:02:02,632
+Gondoljon rá úgy,
+mintha a számok nyelve lenne,
+
+25
+00:02:02,800 --> 00:02:04,200
+ahol az 1 jelentése "A",
+
+26
+00:02:04,360 --> 00:02:08,115
+a 2 jelentése "Az",
+a 3 jelentése "Helló", és így tovább.
+
+27
+00:02:10,160 --> 00:02:13,358
+A matematikát minden nap
+számos alkalommal használjuk,
+
+28
+00:02:13,520 --> 00:02:16,513
+például amikor a
+cipőfűzőnket kötjük meg,
+
+29
+00:02:17,120 --> 00:02:18,998
+vagy amikor kiszámoljuk
+
+30
+00:02:19,160 --> 00:02:21,755
+egy beszélgetés kezdetének
+optimális időpontját,
+
+31
+00:02:24,040 --> 00:02:25,474
+vagy – ha tudunk repülni,
+
+32
+00:02:25,640 --> 00:02:28,394
+munkahelyünkre érkezésünk
+tervezett röppályáját.
+
+33
+00:02:28,560 --> 00:02:30,153
+
+
+34
+00:02:31,640 --> 00:02:33,711
+
+
+35
+00:02:34,680 --> 00:02:39,436
+De néhány szituáció megkívánja
+a matematika átfogóbb ismeretét is.
+
+36
+00:02:39,600 --> 00:02:41,910
+Nézzünk meg néhány példát.
+
+37
+00:02:42,080 --> 00:02:44,390
+Készítsen elő tollat és papírt.
+
+38
+00:02:45,514 --> 00:02:47,814
+Első feladat.
+
+39
+00:02:48,560 --> 00:02:52,952
+Jean alacsonyabb, mint Brutus,
+de magasabb, mint Imhotep.
+
+40
+00:02:53,120 --> 00:02:57,512
+Imhotep magasabb, mint Jean,
+de alacsonyabb, mint Lord Scotland.
+
+41
+00:02:58,640 --> 00:03:02,077
+Lord Scotland kétszer olyan magas,
+mint Jean és Brutus együtt,
+
+42
+00:03:02,240 --> 00:03:05,916
+de csak tized olyan magas, mint Millsy.
+
+43
+00:03:06,080 --> 00:03:09,312
+Millsy magassága konstans x-y.
+
+44
+00:03:09,480 --> 00:03:13,713
+Ha Jean pontosan 1 tengeri
+mérföldre áll Lord Scotland-től,
+
+45
+00:03:13,880 --> 00:03:15,997
+milyen magas Imhotep?
+
+46
+00:03:16,160 --> 00:03:19,995
+A választ a műsor
+végén mutatjuk meg.
+
+47
+00:03:21,440 --> 00:03:23,955
+Vessen egy pillantást
+erre az egyenletre.
+
+48
+00:03:24,880 --> 00:03:28,157
+cDonald's-tétel néven ismerhetjük,
+
+49
+00:03:28,320 --> 00:03:32,758
+a függvényét ábrázolva pedig
+ezt a szokatlan alkazatot kapjuk.
+
+50
+00:03:33,520 --> 00:03:38,276
+Egy egyenletesen görbe vonal,
+amely valahogyan saját magába torkollik,
+
+51
+00:03:38,440 --> 00:03:41,160
+és amit a tudósok még a
+mai napig nem tudtak elnevezni.
+
+52
+00:03:41,320 --> 00:03:43,915
+Ön el tudná nevezni?
+
+53
+00:03:44,080 --> 00:03:45,514
+Ha igen,
+
+54
+00:03:45,680 --> 00:03:49,071
+a Királyi Matematikai Társaság
+szeretne hallani Öntől.
+
+55
+00:03:49,240 --> 00:03:53,871
+Mivel minden évben pályázatot hirdetnek,
+hogy nevet találjanak az alakzatnak.
+
+56
+00:03:54,040 --> 00:03:58,034
+A döntőre Nottingham-ben kerül sor
+április 4-én szeptemberben,
+
+57
+00:03:58,200 --> 00:04:02,319
+a győztes pedig ezt a számítógépes
+pirító-rendszert nyerheti meg iskolájának.
+
+58
+00:04:02,480 --> 00:04:04,551
+Tehát sok sikert!
+
+59
+00:04:06,175 --> 00:04:08,875
+Második feladat.
+
+60
+00:04:10,040 --> 00:04:14,956
+Nyolc nő nyolc boltba megy
+vásárolni, reggel nyolc órakor.
+
+61
+00:04:15,120 --> 00:04:17,919
+Mindegyikük nyolc pókot
+szeretne venni.
+
+62
+00:04:19,040 --> 00:04:23,751
+Minden póknak egyenként nyolc
+pók-cipőt is vásárolni kell.
+
+63
+00:04:24,560 --> 00:04:28,349
+Ám összesen csak nyolc fontjuk van.
+
+64
+00:04:28,720 --> 00:04:30,871
+Ha egy pók nyolc pennybe kerül,
+
+65
+00:04:32,200 --> 00:04:35,796
+egy pók-cipő pedig
+egy nyolcad pennybe,
+
+66
+00:04:35,960 --> 00:04:39,192
+marad-e a hölgyeknek elég
+aprójuk a buszra,
+
+67
+00:04:39,360 --> 00:04:44,230
+ha a hazaút nyolc megállóból áll
+és megállóként nyolc pennybe kerül?
+
+68
+00:04:45,120 --> 00:04:50,070
+Írja le válaszát, később pedig
+ellenőrizzük, helyes volt-e.
+
+69
+00:04:51,320 --> 00:04:53,915
+Egy tolltartó.
+
+70
+00:04:54,080 --> 00:04:56,675
+A modern matematika
+hallgató szerszámosládája,
+
+71
+00:04:56,840 --> 00:04:58,832
+tele azokkal az eszközökkel,
+
+72
+00:04:59,000 --> 00:05:01,754
+melyek a számítások
+elvégzéséhez szükségesek.
+
+73
+00:05:01,920 --> 00:05:04,310
+Nézzük meg közelebbről.
+
+74
+00:05:04,480 --> 00:05:06,597
+Készítsék elő jegyzetfüzeteiket.
+
+75
+00:05:07,080 --> 00:05:10,835
+Egy tolltartó nem is
+lenne tolltartó ezek nélkül:
+
+76
+00:05:11,000 --> 00:05:13,071
+ceruzák.
+
+77
+00:05:16,480 --> 00:05:18,517
+egy szögmérő,
+
+78
+00:05:19,800 --> 00:05:21,757
+egy vonalzó,
+
+79
+00:05:25,840 --> 00:05:28,275
+két iránytű*,
+
+80
+00:05:28,299 --> 00:05:32,299
+[*ez egy szóvicc: a "pair of compasses"
+két iránytűt vagy egy körzőt is jelenthet.]
+
+81
+00:05:33,320 --> 00:05:35,471
+borotvapengék,
+
+82
+00:05:38,680 --> 00:05:41,320
+egy számológép,
+
+83
+00:05:43,400 --> 00:05:45,596
+és ez.
+
+84
+00:05:45,620 --> 00:05:47,720
+Garry-gumi.
+
+85
+00:05:48,040 --> 00:05:50,396
+Ez a nugát-szerű
+édesség rágás során
+
+86
+00:05:50,560 --> 00:05:54,520
+stimulálja az agyműködést
+és javítja a szellemi hatékonyságot.
+
+87
+00:05:55,880 --> 00:05:58,520
+A Garry-guminak
+van néhány mellékhatása,
+
+88
+00:05:58,680 --> 00:06:02,959
+például a hasmenés, így
+szüksége lehet erre is:
+
+89
+00:06:03,983 --> 00:06:06,283
+Anti-Garry-gumi.
+
+90
+00:06:06,680 --> 00:06:09,673
+Jegyezze fel ezt a füzetébe.
+
+91
+00:06:12,970 --> 00:06:15,470
+Harmadik feladat.
+
+92
+00:06:16,120 --> 00:06:19,449
+Ehhez a feladathoz állítsa
+számológépét "matematika" üzemmódba.
+
+93
+00:06:17,320 --> 00:06:22,349
+
+
+94
+00:06:19,473 --> 00:06:22,273
+[Történelem / Latin / Sokkoló /
+Matematika / Földrajz]
+
+95
+00:06:22,520 --> 00:06:23,591
+A jövőben járunk,
+
+96
+00:06:23,660 --> 00:06:26,170
+III. Erzsébet királynő és
+IV. Erzsébet királynő is
+
+97
+00:06:24,760 --> 00:06:28,470
+
+
+98
+00:06:26,340 --> 00:06:29,477
+egy fogadásra hivatalos, melyet
+V. Erzsébet királynő tart.
+
+99
+00:06:29,501 --> 00:06:30,839
+Szeretnének jó benyomást kelteni,
+
+100
+00:06:30,840 --> 00:06:35,312
+így fontos, hogy megfelelő
+öltözetet válasszanak.
+
+101
+00:06:35,480 --> 00:06:39,190
+III. Erzsébet királynő
+40 ruha közül választhat,
+
+102
+00:06:39,360 --> 00:06:43,400
+míg IV. Erzsébet királynő
+4 000 közül.
+
+103
+00:06:43,560 --> 00:06:46,553
+V. Erzsébet királynőnek
+csak egy ruhája van,
+
+104
+00:06:46,720 --> 00:06:52,478
+de az képes átváltozni bármilyen
+más ruha formájára.
+
+105
+00:06:54,320 --> 00:06:56,198
+A fogadás előtti estén
+
+106
+00:06:56,360 --> 00:06:58,636
+IV. Erzsébet királynő szolgálója
+
+107
+00:06:58,800 --> 00:07:01,235
+ellopja III. Erzsébet királynő
+ruhájának terveit,
+
+108
+00:07:01,400 --> 00:07:05,633
+és végigdolgozva az éjszakát
+40 pontos másolatot készít róluk.
+
+109
+00:07:05,800 --> 00:07:09,316
+Ki tudja-e számolni annak a valószínűségét,
+hogy mindhárom királynő
+
+110
+00:07:09,480 --> 00:07:12,154
+ugyanazt a ruhát
+viseli majd a fogadáson?
+
+111
+00:07:12,320 --> 00:07:16,599
+Illetve azt, hogy hányszor képes
+átváltozni V. Erzsébet királynő ruhája,
+
+112
+00:07:16,760 --> 00:07:18,752
+mielőtt túlmelegszik?
+
+113
+00:07:18,920 --> 00:07:20,354
+
+
+114
+00:07:23,040 --> 00:07:25,396
+Ez volt az utolsó feladat.
+
+115
+00:07:25,560 --> 00:07:28,951
+Még van néhány másodperce,
+hogy befejezze számításait
+
+116
+00:07:29,120 --> 00:07:31,237
+a következő bejátszás alatt.
+
+117
+00:07:31,400 --> 00:07:33,312
+
+
+118
+00:07:42,380 --> 00:07:45,180
+Tegyék le a fegyvert.
+
+119
+00:07:45,204 --> 00:07:47,804
+Tegyék le a tollat.
+
+120
+00:07:47,960 --> 00:07:50,520
+Lássuk a feladatok
+helyes megoldásait.
+
+121
+00:07:50,680 --> 00:07:53,673
+Első feladat: Imhotep láthatatlan.
+
+122
+00:07:55,440 --> 00:07:59,195
+Második feladat: a nők
+8 penny mínuszban voltak.
+
+123
+00:07:59,360 --> 00:08:00,840
+
+
+124
+00:08:01,000 --> 00:08:04,630
+És a harmadik feladat:
+a fogadás elmaradt.
+
+125
+00:08:07,240 --> 00:08:11,029
+Most adják előre füzeteiket
+tanáruknak vagy osztályfőnöküknek.
+
+126
+00:08:13,920 --> 00:08:17,800
+A következő részben
+kozmetikumokkal foglalkozunk.
+

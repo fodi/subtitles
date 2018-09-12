@@ -160,7 +160,7 @@ elegyet keverni kezdjük
 
 36
 00:05:09,360 --> 00:05:12,080
-egy keverő rúd vagy
+egy üvegpálca vagy
 ceruza segítségével.
 
 37
@@ -174,12 +174,12 @@ Tehát, oldható-e a kalcium?
 
 39
 00:05:29,800 --> 00:05:32,872
-Nézze meg közelebbről
+Nézze meg közelebbről,
 mielőtt megállapítja.
 
 40
 00:05:37,880 --> 00:05:42,557
-Látja a krétapor-szerű lerakódást
+Látja a krétaporszerű lerakódást
 a főzőedény alján?
 
 41
@@ -223,8 +223,7 @@ tudná feldolgozni táplálékát,
 
 50
 00:06:17,400 --> 00:06:21,110
-Ez a kalcium
-molekula modellje.
+Ez a kalciummolekula modellje.
 
 51
 00:06:21,280 --> 00:06:23,920
@@ -236,8 +235,8 @@ Ha igen, jegyezze fel.
 
 53
 00:06:29,480 --> 00:06:32,279
-A kalcium molekula egy
-fél-állandó szerkezetre épül,
+A kalciummolekula egy
+félállandó szerkezetre épül,
 
 54
 00:06:32,440 --> 00:06:36,320
@@ -256,11 +255,11 @@ a molekula magjába,
 57
 00:06:41,880 --> 00:06:45,669
 ahol a központi atom,
-avagy "királynő atom" található.
+avagy "királynőatom" található.
 
 58
 00:06:47,400 --> 00:06:50,837
-Ha a királynő atom elhagyná
+Ha a királynőatom elhagyná
 a molekulát – avagy fészket,
 
 59
@@ -297,7 +296,7 @@ dombos zöldterület.
 
 66
 00:07:26,320 --> 00:07:29,597
-Ez a hely, az észak-nyugat
+Ez a hely, az északnyugat
 gyöngyszeme az, ahol
 
 67
@@ -317,12 +316,12 @@ elő ipari erősségű kalciumot.
 70
 00:07:41,360 --> 00:07:44,910
 Ha használt már
-kalcium tollhegyet,
+kalcium-tollhegyet,
 
 71
 00:07:45,080 --> 00:07:50,394
-vagy nézett már át kalcium lencsén,
-az jó eséllyel Holdwick-ből származik.
+vagy nézett már át kalciumlencsén,
+az jó eséllyel Holdwickből származik.
 
 72
 00:07:51,400 --> 00:07:53,392
@@ -340,7 +339,7 @@ Minden nap hat tonna kidobott fogat
 75
 00:08:04,840 --> 00:08:09,596
 Ezeket a Nagy-Britannia-szerte található
-kalcium lerakókból gyűjtik össze.
+kalciumlerakókból gyűjtik össze.
 
 76
 00:08:09,760 --> 00:08:13,231
@@ -353,7 +352,7 @@ Mivel a kalciumon víz csapódik ki,
 
 78
 00:08:16,080 --> 00:08:18,356
-mire elér Holdwick-ig,
+mire elér Holdwickig,
 
 79
 00:08:18,560 --> 00:08:21,200
@@ -383,7 +382,7 @@ voltaképpen egy Bestal Heim,
 84
 00:08:39,840 --> 00:08:44,392
 a kalciumot sok-sok millió
-cézium atommal bombázzák.
+céziumatommal bombázzák.
 
 85
 00:08:45,400 --> 00:08:49,519
@@ -538,7 +537,7 @@ egy elektromos izzó közbeiktatásával...
 118
 00:11:35,760 --> 00:11:39,231
 A kalciumot óvatosan
-a Bestal Heim-ba szórjuk,
+a Bestal Heimba szórjuk,
 
 119
 00:11:39,400 --> 00:11:42,359
@@ -656,7 +655,7 @@ Egy kísérletet hajtottunk végre,
 
 144
 00:13:36,760 --> 00:13:40,515
-hogy tanulmányozzuk a hélium gáz
+hogy tanulmányozzuk a héliumgáz
 kalciumra gyakorolt hatását.
 
 145
@@ -666,7 +665,7 @@ kupacot formálunk a munkafelületen.
 
 146
 00:13:47,880 --> 00:13:50,236
-Ezután egy közönséges pingpong labdát
+Ezután egy közönséges pingponglabdát
 
 147
 00:13:50,440 --> 00:13:53,672
@@ -679,7 +678,7 @@ Most megjelöljük a középpontot.
 
 149
 00:14:03,120 --> 00:14:08,275
-Ezután hélium gázt engedünk
+Ezután héliumgázt engedünk
 a kupac irányába.
 
 150
@@ -693,7 +692,7 @@ Cinderford-konstanst állítunk be.
 
 152
 00:14:16,760 --> 00:14:23,075
-Figyelje meg a reakciót és
+Figyelje meg a reakciót, és
 jegyezze fel a látottakat.
 
 153
@@ -721,8 +720,8 @@ a pingpong labdát?
 
 158
 00:14:59,360 --> 00:15:04,355
-Meglepő módon a porított kalcium
-kupac még mindig a helyén van.
+Meglepő módon a porított kalciumkupac
+még mindig a helyén van.
 
 159
 00:15:04,560 --> 00:15:07,394
@@ -739,13 +738,12 @@ Ha elzárjuk a hélium forrást,
 
 162
 00:15:17,320 --> 00:15:20,996
-a porított kalcium
-kupac képe
+a porított kalciumkupac képe
 
 163
 00:15:21,160 --> 00:15:24,836
 újraegyesül a tényleges
-porított kalcium kupaccal.
+porított kalciumkupaccal.
 
 164
 00:15:25,720 --> 00:15:27,757
@@ -790,7 +788,7 @@ atomtömegű kalciumról.
 
 173
 00:16:22,120 --> 00:16:27,275
-De mit tudunk a testvér eleméről,
+De mit tudunk a testvéreleméről,
 a 42-es atomtömegű kalciumról,
 
 174
@@ -858,13 +856,13 @@ A REMS két szenzorát
 
 188
 00:17:16,160 --> 00:17:19,153
-az intelligens kalcium
-mintánkhoz csatlakoztatjuk.
+az intelligens kalciummintánkhoz
+csatlakoztatjuk.
 
 189
 00:17:22,480 --> 00:17:27,396
 Miután a mikrofont előkészítettük,
-a REMS-et áram alá helyezzük.
+áram alá helyezzük a REMS-et.
 
 190
 00:17:31,200 --> 00:17:34,796

@@ -88,7 +88,7 @@ csésze reggeli teától...
 
 21
 00:01:52,800 --> 00:01:55,110
-De mi is valőjában a víz?
+De mi is valójában a víz?
 
 22
 00:01:55,280 --> 00:01:59,354
@@ -173,7 +173,7 @@ a főzőpohárban.
 
 40
 00:03:10,520 --> 00:03:12,512
-Nézzük, mi történik a tojással
+Nézzük meg, mi történik a tojással
 
 41
 00:03:12,680 --> 00:03:15,195

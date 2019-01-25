@@ -274,7 +274,7 @@ szerkezet szétesne.
 
 61
 00:06:58,120 --> 00:07:01,238
-Ez a jelenség a Helvetica Szcenárió.
+Ez az úgynevezett Helvetica Jelenség.
 
 62
 00:07:01,400 --> 00:07:04,234
@@ -720,8 +720,8 @@ a pingpong labdát?
 
 158
 00:14:59,360 --> 00:15:04,355
-Meglepő módon a porított kalciumkupac
-még mindig a helyén van.
+Meglepő módon a porított kalcium
+kupac még mindig a helyén van.
 
 159
 00:15:04,560 --> 00:15:07,394
@@ -738,7 +738,8 @@ Ha elzárjuk a hélium forrást,
 
 162
 00:15:17,320 --> 00:15:20,996
-a porított kalciumkupac képe
+a porított kalcium
+kupac képe
 
 163
 00:15:21,160 --> 00:15:24,836

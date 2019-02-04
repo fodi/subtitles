@@ -60,7 +60,7 @@ Fennséges, frissítő víz.
 
 15
 00:01:30,120 --> 00:01:33,477
-Akár óceán, tenger,
+Óceán, tenger,
 tó, medence,
 
 16
@@ -150,7 +150,7 @@ lévő víz hatását proteineken.
 
 35
 00:02:43,840 --> 00:02:46,230
-Főzőpohárban vizet melegítünk
+Főzőpohárban vizet hevítünk
 egy Bunsen-égő fölött,
 
 36
@@ -159,7 +159,7 @@ míg el nem éri ezer fokos forráspontját.
 
 37
 00:02:52,840 --> 00:02:56,197
-Ezután előkészítjük a protein mintát.
+Ezután előkészítjük protein mintánkat.
 
 38
 00:02:57,040 --> 00:03:00,829
@@ -173,7 +173,7 @@ a főzőpohárban.
 
 40
 00:03:10,520 --> 00:03:12,512
-Nézzük meg, mi történik a tojással
+Nézzük, mi történik a tojással
 
 41
 00:03:12,680 --> 00:03:15,195
@@ -201,7 +201,8 @@ protein alig reagált
 
 46
 00:03:36,000 --> 00:03:38,117
-a forró vízre.
+a forrásban lévő
+víz hőjére.
 
 47
 00:03:39,240 --> 00:03:43,598
@@ -242,7 +243,7 @@ struktúrája összeállt.
 
 55
 00:04:41,760 --> 00:04:45,151
-Más szóval nem túl folyós,
+Más szóval: nem túl folyós,
 nem túl kemény.
 
 56
@@ -308,7 +309,7 @@ hogy apró jégkockákból
 
 70
 00:05:44,760 --> 00:05:47,195
-egy jégkunyhót építsenek.
+jégkunyhót építsenek.
 
 71
 00:05:58,320 --> 00:06:00,437
@@ -324,7 +325,7 @@ Később még visszatérünk a hangyákhoz.
 
 74
 00:06:06,960 --> 00:06:09,031
-Addig is, köszönjük, hangyák.
+Addig is: köszönjük, hangyák.
 
 75
 00:06:09,855 --> 00:06:11,855

@@ -84,7 +84,7 @@ körülbelül 45 milliárd,
 20
 00:01:36,080 --> 00:01:40,393
 bár matematikusok szerint
-akár ennél nagyobbak is lehetnek.
+akár ennél nagyobbak is létezhetnek.
 
 21
 00:01:43,720 --> 00:01:48,397
@@ -103,7 +103,7 @@ Anti-Telharszikus Harfétum Szeptomin.
 24
 00:01:59,480 --> 00:02:02,632
 Gondoljon rá úgy,
-mintha a számok nyelve lenne,
+mint a számok "nyelvére",
 
 25
 00:02:02,800 --> 00:02:04,200
@@ -152,7 +152,7 @@ tervezett röppályáját.
 
 35
 00:02:34,680 --> 00:02:39,436
-De néhány szituáció megkívánja
+Ám bizonyos helyzetek megkívánják
 a matematika átfogóbb ismeretét is.
 
 36
@@ -276,8 +276,8 @@ szeretne venni.
 
 62
 00:04:19,040 --> 00:04:23,751
-Minden póknak egyenként nyolc
-pók-cipőt is vásárolni kell.
+Mindegyik pók számára nyolc
+pók cipőt is vásárolniuk kell.
 
 63
 00:04:24,560 --> 00:04:28,349
@@ -377,13 +377,13 @@ Garry-gumi.
 
 85
 00:05:48,040 --> 00:05:50,396
-Ez a nugát-szerű
-édesség rágás során
+Ez egy nugátszerű
+édesség, melynek rágása
 
 86
 00:05:50,560 --> 00:05:54,520
 stimulálja az agyműködést
-és javítja a szellemi állóképességet.
+és javítja a szellemi hatékonyságot.
 
 87
 00:05:55,880 --> 00:05:58,520
@@ -465,8 +465,8 @@ csak egy ruhája van,
 
 104
 00:06:46,720 --> 00:06:52,478
-de az képes átváltozni bármilyen
-más ruha formájára.
+de az képes felvenni bármilyen
+másik ruha alakját.
 
 105
 00:06:54,320 --> 00:06:56,198
@@ -515,8 +515,8 @@ Ez volt az utolsó feladat.
 
 115
 00:07:25,560 --> 00:07:28,951
-Még van néhány másodperce,
-hogy befejezze számításait
+Még van néhány másodpercük,
+hogy befejezzék számításaikat
 
 116
 00:07:29,120 --> 00:07:31,237
@@ -554,7 +554,7 @@ Második feladat: a nők
 
 124
 00:08:01,000 --> 00:08:04,630
-És a harmadik feladat:
+És harmadik feladat:
 a fogadás elmaradt.
 
 125
